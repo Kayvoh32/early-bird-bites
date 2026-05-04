@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Early Bird Bites 🐦
 
 A modern restaurant management system built with Node.js, Express, and SQLite. Designed for efficient order placement, menu management, and sales reporting.
